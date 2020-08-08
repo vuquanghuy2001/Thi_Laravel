@@ -1,0 +1,21 @@
+/* Hieu iceTea */
+
+
+/* Xử lý cuộn mượt */
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* Resset CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.vertical_menu .active {
+    color: green;
+    border-left: 2px solid green;
+}
